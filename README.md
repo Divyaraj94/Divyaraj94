@@ -1,6 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there, I'm Divyaraj! 👋
 
+Welcome to my GitHub! I am a **Full-Stack & AI Developer** passionate about building intuitive web interfaces and integrating advanced machine learning models. I specialize in the MERN stack, Next.js, and custom Python AI pipelines. 
+
+Currently, I am actively seeking full-time opportunities where I can contribute to impactful software solutions.
+
+## 🚀 What I'm Currently Working On
+* **Tannu-AI:** Developing a custom, multimodal AI agent in Python—accelerated via an NVIDIA GPU—that replicates specific conversational personas using fine-tuned LLMs, voice synthesis, and facial avatars. *(Note: I strictly use a Python version manager to maintain clean, isolated environments for my ML pipelines).*
+* **Full-Stack E-Commerce Platform:** Architecting a scalable MERN stack application with a strong focus on seamless UI/UX design.
+* **Interior Design Web App:** Building a highly performant, responsive frontend utilizing Next.js, TypeScript, and Tailwind CSS.
+
+## 💻 Tech Stack & Tools
+* **Frontend & UI/UX:** React.js, Next.js, TypeScript, Tailwind CSS, HTML/CSS
+* **Backend & Database:** Node.js, Express.js, MongoDB
+* **AI & Machine Learning:** Python, Custom LLM Fine-Tuning, NLP, Hugging Face, LangChain
+* **My AI Toolbelt:** Perplexity (Research), Claude Code & Gemini 3 Pro (Coding), MGX & v0 (Generative UI)
+* **Version Control & Package Managers:** Git, GitHub, npm, pnpm
+
+## ⚡ Quick Facts About Me
+* 🌱 I’m always learning new ways to merge generative AI with modern web development.
+* 💬 Ask me about **React, Next.js, or fine-tuning local LLMs**.
+* 📫 How to reach me: [Insert your LinkedIn URL or Email here]
+* ⚡ Fun fact: When I'm not coding, I'm probably researching the latest AI models!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyarajsinh-chudasama-250b19319) 
