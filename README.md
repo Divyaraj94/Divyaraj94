@@ -1,18 +1,6 @@
 # Divyaraj | Full-Stack & AI Developer
 
 Software developer specializing in the MERN stack, Next.js, and integrating custom machine learning models into modern web applications. 
-
-### 🛠️ Tech Stack
-* **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-* **Backend:** Node.js, Express.js, MongoDB
-* **AI & Data:** Python, Custom LLMs, NLP, LangChain, Hugging Face
-* **Tools:** Git, Docker, Claude Code, Gemini 3 Pro
-
-### 🚀 Featured Projects
-* **AI-Agent:** Engineered a custom, multimodal AI agent in Python using fine-tuned LLMs, voice synthesis, and facial avatars.
-* **Full-Stack E-Commerce:** Architected a scalable MERN stack platform with a focus on seamless UI/UX and dynamic product management.
-* **Interior Design Platform:** Built a highly performant, responsive frontend interface utilizing Next.js and TypeScript.
-
 ### 🔗 Project Links
 * **AI-Agent:** Ongoing
 * **Portfolio:** [Link](https://divyaraj-portfolio-1.netlify.app/)
