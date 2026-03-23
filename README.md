@@ -1,7 +1,8 @@
 # Divyaraj | Full-Stack & AI Developer
 
-Software developer specializing in the MERN stack, Next.js, and integrating custom machine learning models into modern web applications. 
-### 🔗 Project Links
+Welcome to my GitHub! I am a **Full-Stack & AI Developer** passionate about building intuitive web interfaces and integrating advanced machine learning models. I specialize in the MERN stack, Next.js, and custom Python AI pipelines. 
+
+Currently, I am actively seeking full-time opportunities where I can contribute to impactful software solutions. 🔗 Project Links
 * **AI-Agent:** Ongoing
 * **Portfolio:** [Link](https://divyaraj-portfolio-1.netlify.app/)
 * **E-Commerce:** [Link](https://project-2-sweets.netlify.app/)
