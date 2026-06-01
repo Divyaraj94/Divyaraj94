@@ -1,4 +1,4 @@
-# Divyaraj | Full-Stack & AI Developer
+# Divyaraj | Python Developer | AI/ML & Automation | Fresher
 
 Welcome to my GitHub! I am a **Full-Stack & AI Developer** passionate about building intuitive web interfaces and integrating advanced machine learning models. I specialize in the MERN stack, Next.js, and custom Python AI pipelines. 
 
